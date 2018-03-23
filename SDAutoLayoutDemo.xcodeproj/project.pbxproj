@@ -1651,7 +1651,7 @@
 				TargetAttributes = {
 					487D3EB01BCB9EC700A66173 = {
 						CreatedOnToolsVersion = 6.4;
-						DevelopmentTeam = 8D5EHT9KTL;
+						DevelopmentTeam = P42EJG63CS;
 					};
 					487D3EC91BCB9EC700A66173 = {
 						CreatedOnToolsVersion = 6.4;
@@ -2039,11 +2039,11 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 8D5EHT9KTL;
+				DEVELOPMENT_TEAM = P42EJG63CS;
 				INFOPLIST_FILE = SDAutoLayoutDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.gsdiosnew.test;
+				PRODUCT_BUNDLE_IDENTIFIER = com.xy.test123;
 				PRODUCT_NAME = SDAutoLayoutDemo;
 				PROVISIONING_PROFILE = "";
 			};
@@ -2056,11 +2056,11 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 8D5EHT9KTL;
+				DEVELOPMENT_TEAM = P42EJG63CS;
 				INFOPLIST_FILE = SDAutoLayoutDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.gsdiosnew.test;
+				PRODUCT_BUNDLE_IDENTIFIER = com.xy.test123;
 				PRODUCT_NAME = SDAutoLayoutDemo;
 				PROVISIONING_PROFILE = "";
 			};
